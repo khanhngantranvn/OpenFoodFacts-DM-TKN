@@ -64,4 +64,4 @@ Source: **Open Food Facts**
   - Cluster 3 – High Fat & Protein: Cheese, oily nuts, and red meat; low carbohydrate content.
 
 ## 🔗 Original Project
-This repository is forked from: https://github.com/thilnnd/OpenFoodFacts
+This repository is forked from: [https://github.com/thilnnd/OpenFoodFacts](https://github.com/thilinnd/OpenFoodFacts)
